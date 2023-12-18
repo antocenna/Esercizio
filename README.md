@@ -18,4 +18,4 @@ Il codice dei Client e del Server deve risiedere in due eseguibili distinti, che
 un programma principale attraverso una delle varianti della primitiva exec. Quando tutti i Client e il
 Server terminano, il programma principale rimuove la coda e i semafori e termina a sua volta.
 
-[!image](https://github.com/antocenna/esercizio/blob/main/traccia.png)
+![image](https://github.com/antocenna/esercizio/blob/main/traccia.png)
